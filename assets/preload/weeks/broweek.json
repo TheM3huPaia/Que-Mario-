@@ -1,0 +1,32 @@
+{
+	"storyName": "oh fuck oh shit oh fuck oh shit they speaking facts oh shit oh fuck oh shit crap holy",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "mario",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		255,
+		0,
+		0
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"brotherly-rivalry",
+			"mario-icon",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"mario",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Mario & Luigi"
+}

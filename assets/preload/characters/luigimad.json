@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "luigimad idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				17
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "luigimad left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				8
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "luigimad down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				0
+			],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "luigimad up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				25
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "luigimad right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/luigimad",
+	"position": [
+		80,
+		460
+	],
+	"healthicon": "luigi-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		255,
+		0
+	],
+	"camera_position": [
+		-150,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 8.99999999999999
+}

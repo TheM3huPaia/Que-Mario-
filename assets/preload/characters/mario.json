@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				-60
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "mario idle"
+		},
+		{
+			"offsets": [
+				-30,
+				-60
+			],
+			"loop": false,
+			"fps": 3,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mario left"
+		},
+		{
+			"offsets": [
+				-30,
+				-60
+			],
+			"loop": false,
+			"fps": 3,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mario down"
+		},
+		{
+			"offsets": [
+				-30,
+				-60
+			],
+			"loop": false,
+			"fps": 3,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mario right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				83
+			],
+			"anim": "jump",
+			"fps": 10,
+			"name": "mario jump",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-3,
+				-6
+			],
+			"anim": "scared",
+			"fps": 10,
+			"name": "mario scared",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				149,
+				74
+			],
+			"anim": "hammer",
+			"fps": 10,
+			"name": "mario hammer",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-33
+			],
+			"anim": "fire",
+			"fps": 10,
+			"name": "mario fire",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-3,
+				-42
+			],
+			"anim": "laugh",
+			"fps": 10,
+			"name": "mario laugh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				-60
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singUP",
+			"loop": false,
+			"name": "mario left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mario",
+	"position": [
+		220,
+		400
+	],
+	"healthicon": "mario-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		20
+	],
+	"camera_position": [
+		70,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 8.99999999999999
+}

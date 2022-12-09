@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="luigimad.png">
+<SubTexture name="luigimad idle0000" x="73" y="0" width="19" height="37" frameX="-10" frameY="-6" frameWidth="46" frameHeight="48" />
+<SubTexture name="luigimad idle0001" x="25" y="0" width="25" height="40" frameX="-7" frameY="-3" frameWidth="46" frameHeight="48" />
+<SubTexture name="luigimad idle0002" x="0" y="0" width="25" height="41" frameX="-7" frameY="-2" frameWidth="46" frameHeight="48" />
+<SubTexture name="luigimad idle0003" x="47" y="41" width="16" height="35" frameX="-11" frameY="-8" frameWidth="46" frameHeight="48" />
+<SubTexture name="luigimad down0000" x="0" y="41" width="20" height="36" frameX="-13" frameY="-8" frameWidth="46" frameHeight="48" />
+<SubTexture name="luigimad down0001" x="92" y="0" width="23" height="34" frameX="-14" frameY="-10" frameWidth="46" frameHeight="48" />
+<SubTexture name="luigimad left0000" x="20" y="41" width="27" height="36" frameX="-9" frameY="-9" frameWidth="46" frameHeight="48" />
+<SubTexture name="luigimad right0000" x="50" y="0" width="23" height="38" frameX="-9" frameY="-8" frameWidth="46" frameHeight="48" />
+<SubTexture name="luigimad up0000" x="63" y="41" width="22" height="35" frameX="-11" frameY="-7" frameWidth="46" frameHeight="48" />
+</TextureAtlas>

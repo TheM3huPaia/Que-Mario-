@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="toad.png">
+<SubTexture name="toad danceRight0000" x="0" y="0" width="16" height="23" frameX="-1" frameY="-6" frameWidth="18" frameHeight="29" />
+<SubTexture name="toad danceRight0001" x="0" y="0" width="16" height="23" frameX="-1" frameY="-2" frameWidth="18" frameHeight="29" />
+<SubTexture name="toad danceRight0002" x="0" y="0" width="16" height="23" frameX="-1" frameY="-1" frameWidth="18" frameHeight="29" />
+<SubTexture name="toad danceRight0003" x="0" y="0" width="16" height="23" frameX="-1" frameY="-4" frameWidth="18" frameHeight="29" />
+<SubTexture name="toad danceLeft0000" x="16" y="0" width="16" height="23" frameX="-1" frameY="-6" frameWidth="18" frameHeight="29" />
+<SubTexture name="toad danceLeft0001" x="16" y="0" width="16" height="23" frameX="-1" frameY="-2" frameWidth="18" frameHeight="29" />
+<SubTexture name="toad danceLeft0002" x="16" y="0" width="16" height="23" frameX="-1" frameY="-1" frameWidth="18" frameHeight="29" />
+<SubTexture name="toad danceLeft0003" x="16" y="0" width="16" height="23" frameX="-1" frameY="-4" frameWidth="18" frameHeight="29" />
+</TextureAtlas>

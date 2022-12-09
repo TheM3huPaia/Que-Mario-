@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sonic.png">
+<SubTexture name="sonic idle0000" x="73" y="80" width="36" height="34" frameX="-3" frameY="-7" frameWidth="41" frameHeight="41" />
+<SubTexture name="sonic idle0001" x="39" y="80" width="34" height="36" frameX="-4" frameY="-5" frameWidth="41" frameHeight="41" />
+<SubTexture name="sonic idle0002" x="63" y="0" width="32" height="39" frameX="-5" frameY="-2" frameWidth="41" frameHeight="41" />
+<SubTexture name="sonic idle0003" x="0" y="41" width="32" height="39" frameX="-5" frameY="-2" frameWidth="41" frameHeight="41" />
+<SubTexture name="sonic up0000" x="52" y="118" width="28" height="24" frameX="-9" frameY="-18" frameWidth="47" frameHeight="48" />
+<SubTexture name="sonic up0001" x="28" y="118" width="24" height="28" frameX="-11" frameY="-15" frameWidth="47" frameHeight="48" />
+<SubTexture name="sonic up0002" x="64" y="41" width="24" height="36" frameX="-11" frameY="-9" frameWidth="47" frameHeight="48" />
+<SubTexture name="sonic down0000" x="0" y="118" width="28" height="31" frameX="-8" frameY="-12" frameWidth="45" frameHeight="47" />
+<SubTexture name="sonic down0001" x="127" y="0" width="23" height="32" frameX="-11" frameY="-11" frameWidth="45" frameHeight="47" />
+<SubTexture name="sonic down0002" x="0" y="0" width="24" height="41" frameX="-8" frameY="-6" frameWidth="45" frameHeight="47" />
+<SubTexture name="sonic right0000" x="24" y="0" width="39" height="40" frameX="-5" frameY="-8" frameWidth="48" frameHeight="48" />
+<SubTexture name="sonic right0001" x="0" y="80" width="39" height="38" frameX="-5" frameY="-8" frameWidth="48" frameHeight="48" />
+<SubTexture name="sonic right0002" x="95" y="39" width="26" height="38" frameX="-9" frameY="-9" frameWidth="48" frameHeight="48" />
+<SubTexture name="sonic left0000" x="32" y="41" width="32" height="39" frameX="-2" frameY="0" frameWidth="36" frameHeight="39" />
+<SubTexture name="sonic left0001" x="95" y="0" width="32" height="39" frameX="-2" frameY="0" frameWidth="36" frameHeight="39" />
+</TextureAtlas>

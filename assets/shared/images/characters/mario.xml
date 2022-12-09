@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mario.png">
+<SubTexture name="mario idle0000" x="115" y="33" width="16" height="32" frameX="-3" frameY="-2" frameWidth="26" frameHeight="36" />
+<SubTexture name="mario down0000" x="131" y="33" width="17" height="32" frameX="-3" frameY="-2" frameWidth="26" frameHeight="36" />
+<SubTexture name="mario left0000" x="0" y="84" width="18" height="32" frameX="-3" frameY="-2" frameWidth="26" frameHeight="36" />
+<SubTexture name="mario right0000" x="18" y="84" width="19" height="32" frameX="-3" frameY="-2" frameWidth="26" frameHeight="36" />
+<SubTexture name="mario up0000" x="37" y="84" width="16" height="32" frameX="-4" frameY="-2" frameWidth="26" frameHeight="36" />
+<SubTexture name="mario up0001" x="53" y="84" width="16" height="31" frameX="-4" frameY="-3" frameWidth="26" frameHeight="36" />
+<SubTexture name="mario fire0000" x="89" y="0" width="26" height="34" frameX="-8" frameY="-4" frameWidth="42" frameHeight="42" />
+<SubTexture name="mario fire0001" x="89" y="34" width="26" height="33" frameX="-9" frameY="-5" frameWidth="42" frameHeight="42" />
+<SubTexture name="mario fire0002" x="69" y="84" width="27" height="31" frameX="-11" frameY="-7" frameWidth="42" frameHeight="42" />
+<SubTexture name="mario fire0003" x="96" y="84" width="27" height="31" frameX="-10" frameY="-7" frameWidth="42" frameHeight="42" />
+<SubTexture name="mario hammer0000" x="115" y="0" width="37" height="33" frameX="-3" frameY="-16" frameWidth="68" frameHeight="51" />
+<SubTexture name="mario hammer0001" x="0" y="0" width="35" height="47" frameX="-6" frameY="-2" frameWidth="68" frameHeight="51" />
+<SubTexture name="mario hammer0002" x="0" y="47" width="42" height="37" frameX="-22" frameY="-12" frameWidth="68" frameHeight="51" />
+<SubTexture name="mario hammer0003" x="0" y="116" width="39" height="30" frameX="-22" frameY="-19" frameWidth="68" frameHeight="51" />
+<SubTexture name="mario jump0000" x="42" y="47" width="21" height="37" frameX="-1" frameY="-14" frameWidth="24" frameHeight="52" />
+<SubTexture name="mario jump0001" x="42" y="47" width="21" height="37" frameX="-1" frameY="-2" frameWidth="24" frameHeight="52" />
+<SubTexture name="mario jump0002" x="42" y="47" width="21" height="37" frameX="-1" frameY="0" frameWidth="24" frameHeight="52" />
+<SubTexture name="mario jump0003" x="63" y="47" width="21" height="35" frameX="-2" frameY="-7" frameWidth="24" frameHeight="52" />
+<SubTexture name="mario jump0004" x="63" y="47" width="21" height="35" frameX="-2" frameY="-15" frameWidth="24" frameHeight="52" />
+<SubTexture name="mario laugh0000" x="123" y="84" width="21" height="31" frameX="-8" frameY="-5" frameWidth="34" frameHeight="40" />
+<SubTexture name="mario laugh0001" x="39" y="116" width="21" height="30" frameX="-8" frameY="-6" frameWidth="34" frameHeight="40" />
+<SubTexture name="mario laugh0002" x="60" y="116" width="21" height="29" frameX="-8" frameY="-7" frameWidth="34" frameHeight="40" />
+<SubTexture name="mario scared0000" x="63" y="0" width="26" height="39" frameX="-4" frameY="-1" frameWidth="33" frameHeight="41" />
+<SubTexture name="mario scared0001" x="35" y="0" width="28" height="40" frameX="-3" frameY="0" frameWidth="33" frameHeight="41" />
+</TextureAtlas>

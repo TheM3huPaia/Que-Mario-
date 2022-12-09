@@ -1,0 +1,11 @@
+{
+	"idle_anim": "mario idle",
+	"image": "mario",
+	"position": [
+		140,
+		-80
+	],
+	"flipX": false,
+	"scale": 2.35,
+	"confirm_anim": "mario idle"
+}

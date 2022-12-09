@@ -1,0 +1,726 @@
+{
+	"song": {
+		"events": [
+			[
+				1678.32167832168,
+				[
+					[
+						"CameraControl",
+						"700,600",
+						"1.5"
+					]
+				]
+			],
+			[
+				3356.64335664336,
+				[
+					[
+						"CameraControl",
+						"350,600",
+						"1.5"
+					]
+				]
+			],
+			[
+				4825.17482517482,
+				[
+					[
+						"CameraControl",
+						"650,600",
+						"1.5"
+					]
+				]
+			],
+			[
+				5034.96503496503,
+				[
+					[
+						"CameraControl",
+						"700,600",
+						"1.5"
+					]
+				]
+			],
+			[
+				6713.28671328671,
+				[
+					[
+						"CameraControl",
+						"350,600",
+						"1.5"
+					]
+				]
+			],
+			[
+				8391.60839160839,
+				[
+					[
+						"CameraControl",
+						"500,600",
+						"0.8"
+					],
+					[
+						"Kaboom",
+						"1",
+						"1"
+					],
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				14160.8391608392,
+				[
+					[
+						"Flash Camera",
+						"1",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				15104.8951048951,
+				[
+					[
+						"Two_Flashes",
+						"0.5",
+						"FFFFFF"
+					],
+					[
+						"Kaboom",
+						"0.3",
+						"0.3"
+					],
+					[
+						"CameraControl",
+						"600, 600",
+						"0.7"
+					]
+				]
+			],
+			[
+				16783.2167832168,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				18461.5384615385,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				20139.8601398601,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				21818.1818181818,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				23496.5034965035,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				25174.8251748252,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				26853.1468531468,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				28531.4685314685,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				28846.1538461538,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				28951.0489510489,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				29055.944055944,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				30209.7902097902,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				31888.1118881119,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				33566.4335664336,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				35244.7552447552,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				36923.0769230769,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				38601.3986013986,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				40279.7202797203,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				41958.0419580419,
+				[
+					[
+						"Play Animation",
+						"jump",
+						"BF"
+					],
+					[
+						"Kaboom",
+						"0.05",
+						"0.05"
+					],
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					],
+					[
+						"hideui",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				42377.6223776224,
+				[
+					[
+						"Play Animation",
+						"hurt",
+						"Dad"
+					]
+				]
+			],
+			[
+				42797.2027972028,
+				[
+					[
+						"Play Animation",
+						"hammer",
+						"BF"
+					]
+				]
+			],
+			[
+				43216.7832167832,
+				[
+					[
+						"Play Animation",
+						"hammer",
+						"Dad"
+					]
+				]
+			],
+			[
+				43636.3636363636,
+				[
+					[
+						"Play Animation",
+						"fire",
+						"BF"
+					]
+				]
+			],
+			[
+				44055.944055944,
+				[
+					[
+						"Play Animation",
+						"thunder",
+						"Dad"
+					]
+				]
+			],
+			[
+				44475.5244755245,
+				[
+					[
+						"Play Animation",
+						"jump",
+						"BF"
+					]
+				]
+			],
+			[
+				44895.1048951049,
+				[
+					[
+						"Play Animation",
+						"jump",
+						"Dad"
+					]
+				]
+			],
+			[
+				45314.6853146853,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"BF"
+					]
+				]
+			],
+			[
+				45734.2657342657,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"Dad"
+					]
+				]
+			],
+			[
+				46153.8461538461,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"BF"
+					]
+				]
+			],
+			[
+				46573.4265734266,
+				[
+					[
+						"Play Animation",
+						"yeah",
+						"Dad"
+					]
+				]
+			],
+			[
+				46993.006993007,
+				[
+					[
+						"Play Animation",
+						"jump",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"jump",
+						"Dad"
+					]
+				]
+			],
+			[
+				47412.5874125874,
+				[
+					[
+						"Play Animation",
+						"hammer",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"hammer",
+						"Dad"
+					]
+				]
+			],
+			[
+				47832.1678321678,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"scared",
+						"Dad"
+					],
+					[
+						"Add Camera Zoom",
+						"0.005",
+						""
+					]
+				]
+			],
+			[
+				48251.7482517482,
+				[
+					[
+						"Change Character",
+						"BF",
+						"mariomad"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"luigimad"
+					]
+				]
+			],
+			[
+				48671.3286713287,
+				[
+					[
+						"Play Animation",
+						"jump",
+						"BF"
+					],
+					[
+						"Change Character",
+						"BF",
+						"mario"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"luigi"
+					]
+				]
+			],
+			[
+				49090.9090909091,
+				[
+					[
+						"Play Animation",
+						"hurt",
+						"Dad"
+					]
+				]
+			],
+			[
+				49510.4895104895,
+				[
+					[
+						"Play Animation",
+						"hammer",
+						"BF"
+					]
+				]
+			],
+			[
+				49930.0699300699,
+				[
+					[
+						"Play Animation",
+						"hammer",
+						"Dad"
+					]
+				]
+			],
+			[
+				50349.6503496503,
+				[
+					[
+						"Play Animation",
+						"fire",
+						"BF"
+					]
+				]
+			],
+			[
+				50769.2307692308,
+				[
+					[
+						"Play Animation",
+						"thunder",
+						"Dad"
+					]
+				]
+			],
+			[
+				51188.8111888112,
+				[
+					[
+						"Play Animation",
+						"jump",
+						"BF"
+					]
+				]
+			],
+			[
+				51608.3916083916,
+				[
+					[
+						"Play Animation",
+						"jump",
+						"Dad"
+					]
+				]
+			],
+			[
+				52027.972027972,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"BF"
+					]
+				]
+			],
+			[
+				52447.5524475524,
+				[
+					[
+						"Play Animation",
+						"hurt",
+						"Dad"
+					]
+				]
+			],
+			[
+				52867.1328671329,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"BF"
+					]
+				]
+			],
+			[
+				53286.7132867133,
+				[
+					[
+						"Play Animation",
+						"yeah",
+						"Dad"
+					]
+				]
+			],
+			[
+				53706.2937062937,
+				[
+					[
+						"Play Animation",
+						"jump",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"jump",
+						"Dad"
+					]
+				]
+			],
+			[
+				54125.8741258741,
+				[
+					[
+						"Play Animation",
+						"hammer",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"hammer",
+						"Dad"
+					]
+				]
+			],
+			[
+				54545.4545454545,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"scared",
+						"Dad"
+					],
+					[
+						"Add Camera Zoom",
+						"0.005",
+						""
+					]
+				]
+			],
+			[
+				54965.034965035,
+				[
+					[
+						"Change Character",
+						"BF",
+						"mariomad"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"luigimad"
+					],
+					[
+						"Flash Camera",
+						"0.3",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				55384.6153846154,
+				[
+					[
+						"Two_Flashes",
+						"0.5",
+						"FFFFFF"
+					],
+					[
+						"Kaboom",
+						"1.1",
+						"1.1"
+					],
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"1"
+					]
+				]
+			],
+			[
+				81293.7062937063,
+				[
+					[
+						"Set Cam Zoom",
+						"1.8",
+						""
+					]
+				]
+			],
+			[
+				82237.7622377622,
+				[
+					[
+						"Flash Camera",
+						"0.05",
+						"000000"
+					]
+				]
+			]
+		]
+	}
+}
